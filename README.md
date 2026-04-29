@@ -22,8 +22,6 @@ Spring Boot backend for an IoT warehouse management system.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
 </p>
----
-
 ### [Tinyrenderer](https://github.com/HSTKwow/Tinyrenderer)
 
 A lightweight C++ software rasterizer.
