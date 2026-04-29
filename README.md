@@ -2,16 +2,14 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=HSTKwow&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-    </td>
-    <td>
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSTKwow&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9" />
-    </td>
-  </tr>
-</table>
+## GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HSTKwow&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSTKwow&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9" />
+</p>
+
+
 
 ## Projects
 
