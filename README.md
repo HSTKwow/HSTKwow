@@ -2,8 +2,6 @@
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=HSTKwow&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSTKwow&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=c9d1d9" />
@@ -24,11 +22,6 @@ Spring Boot backend for an IoT warehouse management system.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipsemosquitto&logoColor=white" />
 </p>
-
-- RESTful APIs for devices, sensor data, alarms, inventory and dashboard.
-- MQTT message handling for sensor upload, RFID events and command delivery.
-- MySQL table design and SQL queries for inventory and alarm statistics.
-
 ---
 
 ### [Tinyrenderer](https://github.com/HSTKwow/Tinyrenderer)
@@ -41,10 +34,6 @@ A lightweight C++ software rasterizer.
   <img src="https://img.shields.io/badge/OBJ-Model%20Loading-2E8B57?style=flat-square" />
   <img src="https://img.shields.io/badge/Z--Buffer-8A2BE2?style=flat-square" />
 </p>
-
-- Implemented OBJ loading, MVP transform, triangle rasterization and Z-Buffer.
-- Used barycentric coordinates for interpolation and generated TGA/PNG output.
-
 
 
 ## Tech Stack
