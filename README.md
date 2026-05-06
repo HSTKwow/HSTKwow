@@ -84,6 +84,9 @@ A lightweight C++ software rasterizer for understanding the basics of computer g
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HSTKwow&show_icons=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSTKwow&layout=compact&hide_border=true&theme=default" />
+  <img src="https://ghstats.dev/api/card?username=HSTKwow&theme=light&hide_border=true" alt="HSTKwow GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HSTKwow&theme=github" alt="HSTKwow GitHub profile summary" />
 </p>
